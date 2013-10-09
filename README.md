@@ -8,7 +8,7 @@ Tea is a widely loved hot beverage consummed world-wide. Tea comes in all differ
 
 ## Purpose
 
-This topic is excited to me because tea is an important part of my daily routine. Evert morning starts off with it, every night ends with it. Through this project I will explore and discover all the aspects of tea.
+This topic is excited to me because tea is an important part of my daily routine. Every morning starts off with it, every night ends with it. Through this project I will explore and discover all the aspects of tea.
 
 Through this project I will learn and discover the origins and regions of tea, types, benefits and rituals assosicated with enjoying tea. 
  
