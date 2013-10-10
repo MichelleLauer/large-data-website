@@ -32,6 +32,11 @@ nav a:selected {
 h1 {
 	color:#666;
 	text-align: center;
+} 
+
+h2 {
+	color:#666;
+	text-align: center;
 }
 
 .flex-img {

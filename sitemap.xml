@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!--
+The sitemap.xml file should be in the same location as your index.html
+At the root of your domain: domain.com/site/xml
+-->
+
+   <url>
+    <!--
+		<loc> - Location, URL 
+		The full URL starting with http://
+		REQUIRED
+	-->
+
+      <loc>http://tea.com/</loc>
+	<!--
+		<lastmod> - Last modification date 
+		OPTIONAL
+	-->
+      <lastmod>2013-10-10</lastmod>
+	<!--
+		<changefreq> - CHange frequency
+		-never
+		-yearly
+		-monthly
+		-weekly
+		-daily
+		-hourly 
+		-always
+		
+		OPTIONAL
+	-->
+      <changefreq>monthly</changefreq>
+	<!--
+		<priority> - How important this page is to the rest of the site 
+		0.1 - 1.0
+		lowest - highest
+		OPTIONAL
+		default to 0.5
+	-->
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+   		<loc>http://tea.com/origins.html</loc>
+	</url>
+
+</urlset> 

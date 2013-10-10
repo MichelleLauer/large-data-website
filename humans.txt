@@ -1,0 +1,22 @@
+/* TEAM */
+Your title: Michelle Lauer
+Site: behnace.net/michellelauer
+Twitter: @michiemabelle
+Location: Ottawa, Canada.
+
+			[...]
+
+/* THANKS */
+Name: Thomas j Bradley 
+
+[...]
+
+/* SITE */
+
+Last update: 2013/10/10 
+
+Standards: HTML5, CSS3
+
+Components: Jekyll, github
+
+Software: Dreamweaver
