@@ -15,7 +15,7 @@
 - There are so many things to discover about tea
 
 
-Tea - celebrating the benefits and rituals of tea
+Tea - Celebrating the benefits and rituals of worldly teas
 
 **Tea** is an international **ritual**. Overflowing with health **benefits**, there are so many many reason to enjoy tea. 
 
