@@ -154,4 +154,12 @@ footer {
 	background-color: #999;
 	padding: 3%;
 	color:#FFF;
+	text-align: center;
 }
+
+a footer {
+	color:#FFF;
+	list-style-type: none;
+	text-decoration: none;
+}
+	
