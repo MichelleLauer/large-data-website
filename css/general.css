@@ -149,3 +149,9 @@ h2 {
     width: 75%;
   }
 }
+
+footer {
+	background-color: #999;
+	padding: 3%;
+	color:#FFF;
+}
