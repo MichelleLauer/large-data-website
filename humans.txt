@@ -4,12 +4,11 @@ Site: behnace.net/michellelauer
 Twitter: @michiemabelle
 Location: Ottawa, Canada.
 
-			[...]
+	
 
 /* THANKS */
 Name: Thomas j Bradley 
 
-[...]
 
 /* SITE */
 
