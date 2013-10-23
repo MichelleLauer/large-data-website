@@ -42,17 +42,22 @@ h2 {
 .flex-img {
 	display: black;
 	width: 100%;
-
 }
 
 .flex-img1 {
-	display: black;
+	display: block;
 	width: 100%;
 	border-radius: 200px 200px 200px 200px;
 	-moz-border-radius: 200px 200px 200px 200px;
 	-webkit-border-radius: 200px 200px 200px 200px;
 	border: 15px none #fcfcfc;
+}
 
+.flex-info {
+	display: block;
+	width: 95%;
+	background-color:#CCC;
+	height: 90%;
 }
 .grid {
   letter-spacing: -0.31em;
@@ -100,6 +105,10 @@ h2 {
   .unit-s-3-4 {
     width: 75%;
   }
+   .unit-s-1-6 {
+    width: 16.66666%;
+  }
+
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
@@ -124,6 +133,10 @@ h2 {
   .unit-m-3-4 {
     width: 75%;
   }
+   .unit-m-1-6 {
+    width: 16.66666%;
+  }
+  
 }
 @media only screen and (min-width: 60em) {
   .unit-l-hidden {
@@ -148,6 +161,10 @@ h2 {
   .unit-l-3-4 {
     width: 75%;
   }
+   .unit-l-1-6 {
+    width: 16.66666%;
+  }
+
 }
 
 footer {

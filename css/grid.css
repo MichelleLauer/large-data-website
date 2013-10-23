@@ -43,6 +43,9 @@
   .unit-s-3-4 {
     width: 75%;
   }
+    .unit-s-1-6 {
+    width: 16.66666%;
+  }
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
@@ -67,6 +70,9 @@
   .unit-m-3-4 {
     width: 75%;
   }
+   .unit-m-1-6 {
+    width: 16.66666%;
+  }
 }
 @media only screen and (min-width: 60em) {
   .unit-l-hidden {
@@ -90,5 +96,8 @@
   }
   .unit-l-3-4 {
     width: 75%;
+  }
+   .unit-l-1-6 {
+   width: 16.66666%;
   }
 }
