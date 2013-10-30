@@ -8,16 +8,18 @@
 html{
 	margin:0;
 	padding:0;
-	font: normal 100%/1.2 Georgia,serif;
+	font: normal 100%/1.2;
+	font-family: 'Share Tech', sans-serif;
+	background-color:#3CC;
 }
 nav {
-	background-color:#666;
+	background-color:#FFF;
 	padding: .5em;
 	text-align: center;
 }
 
 nav a {
-	color:#FFF;
+	color:#3CC;
 	list-style-type: none;
 	text-decoration: none;
 }
@@ -30,12 +32,12 @@ nav a:selected {
 }
 
 h1 {
-	color:#666;
+	color:#FFF;
 	text-align: center;
 } 
 
 h2 {
-	color:#666;
+	color:#000;
 	text-align: center;
 }
 
@@ -56,7 +58,6 @@ h2 {
 .flex-info {
 	display: block;
 	width: 95%;
-	background-color:#CCC;
 	height: 90%;
 }
 .grid {
@@ -168,14 +169,14 @@ h2 {
 }
 
 footer {
-	background-color: #999;
+	background-color: #fff;
 	padding: 3%;
-	color:#FFF;
+	color:#3CC;
 	text-align: center;
 }
 
 a footer {
-	color:#FFF;
+	color:#3CC;
 	list-style-type: none;
 	text-decoration: none;
 }
