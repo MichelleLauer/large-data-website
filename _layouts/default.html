@@ -32,7 +32,12 @@
 
 <body>
 
-<nav>
+<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to main content</a></li>
+</ul>
+
+<nav role="navigation" id="navigation">
 
 <div class="grid">
 	<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
@@ -50,9 +55,11 @@
 </div>
 </nav>
 
+<main role="main" id="main">
 {{content}}
+</main>
 
-<footer>	
+<footer role="contentinfo">	
 	<a href="index.html"class="selected" rel="home">HOME</a><p>© 2013 A Cup of Tea</p>
 </footer>
 
